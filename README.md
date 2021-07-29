@@ -1,2 +1,2 @@
-# python- simulacion de mundial-
+# Simulacion de mundial en python
  
